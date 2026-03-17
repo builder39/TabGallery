@@ -1,2 +1,0 @@
-# TabGallery
-TabGallery Privacy
